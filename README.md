@@ -194,6 +194,10 @@ More discussions about **implementation tricks** see this [chapter](https://link
 
 ## Performance:
 
+* **DQN** for gym CartPole-v0:
+
+<img width="642" alt="Average_RewardagainstEpisodes" src="https://github.com/WahomeKezia/Popular-RL-Algorithms/assets/90443938/5a47c778-a5fd-4d8d-b15f-20976289954a">
+
 * **SAC** for gym Pendulum-v0:
 
 SAC with automatically updating variable alpha for entropy:
